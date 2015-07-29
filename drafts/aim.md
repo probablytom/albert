@@ -33,11 +33,6 @@ Let's get started on Project Albert itself, shall we?
 ####Wait...what does a design pattern even look like?
 A design pattern usually looks like a series of steps or conditions. In Computer Science, we have a special language for diagramming how systems should be constructed and behave (`UML`), but we don't have to worry about that right now. For outlining the Project Albert design pattern, I'll just use a collection of rules.
 
-####Some things to note
-Project Albert is named after the main character: `Albert`. Albert is, by default for the pattern, a mild mannered friend of the storyteller from long ago. He is traditionally a penguin who lives in Surrey, for reasons that will be explained in the pattern later. 
-Albert can have any characteristics useful to the story being told, but also traditionally, Albert quite enjoys a nice, hot cup of tea. Again, this isn't necessary, but I'll explain why in the pattern later. (Besides, if he's a British penguin...)
-The Albert stories aren't suitable for everything. They're intended as short, fun little skits for bedtime. Albert stories would be badly suited to audiobook format for a five hour car journey through bland fields. He's a penguin, not Michael Bay. 
-
 
 ####The Albert Pattern 
 * Albert's identity is consistent through different stories. 
