@@ -7,10 +7,11 @@ Being able to spin a yarn upon request is a skill we no longer require in a worl
 * The memory of a personalised story can be more precious years later than the reading of a given book.
 
 The aim of Project Albert is to create a generic framework for telling stories to very young children, and is an adaptation of the method my father used to improvise stories for me and my siblings (and his father with his children, too).
+Project albert is a work in progress! Once it is finished, it'll include a series of design patterns that can be put together to construct worlds and stories simple enough to improvise and interesting enough to actually use. It's free to use and remix, given certain conditions!
 
 ---
 ## Design patterns
-Project albert is an example of a `design pattern`.
+Project albert is an example of implementing `design patterns`.
 
 A design pattern is a robust, flexible way to manage some process or system. It's a kind of skeleton we can design things around, where we can alter and change the skeleton to fit our needs. It's an architecture term from the '70s, but it's a term that's often used in software engineering too. 
 
@@ -24,7 +25,6 @@ So, when we talk about design patterns, we really mean a general structure that 
 Not all families can afford children's books, and not all families want to put their money into narratives for their children. While Albert isn't intended to ever replace children's books, it does give parents an easy way to construct a new story for their children at short notice, without needing to develop any great amount of skill as a storyteller. Albert's a step on the road to empowering people with a way to tell stories, without needing to put in the time, effort, and introspection to become a significantly skilled weaver of tales. 
 Specifically, Albert isn't intended to be a skeleton for the construction of long stories, nor stories intended for adults. It is simplistic in its form and humble in what it aims to stretch to, but the hope is that design patterns can become more widely used and help to create more interesting and exciting things over time. 
 One could even consider Albert a proof-of-concept of the power of design patterns as applied to everyday life as a whole. 
-
 
 ---
 ##OK Coach, I'm ready! Throw me into the ring!
