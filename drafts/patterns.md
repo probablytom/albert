@@ -14,4 +14,6 @@ So, the pattern creating Albert's world is built from two constraints:
 1. It's based on real life
 2. A single details is amiss, creating a fantasy feel
 
-
+##Albert's Characters
+Albert's characters can be fairly fluid, but constraining the way they are made with a design pattern can make the characters more believable for the listener and better fit into the world Albert's World lays out. 
+1. Albert characters should have a defining characteristic that comes up at the same point in every story 
