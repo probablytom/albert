@@ -1,3 +1,8 @@
+---
+title: Defining terms
+layout: page
+---
+
 #Terms
 This project borrows some terms from Computer Science, and discusses things that people might have slightly varying definitions for. Just so we're all on the same page, let's define some terms. 
 

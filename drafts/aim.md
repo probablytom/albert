@@ -1,3 +1,8 @@
+---
+title: Aims
+layout: page
+---
+
 #Aim
 
 Being able to spin a yarn upon request is a skill we no longer require in a world of colourful children's books. However, it's a useful skill:
