@@ -14,6 +14,19 @@ So, the pattern creating Albert's world is built from two constraints:
 1. It's based on real life
 2. A single details is amiss, creating a fantasy feel
 
+Also, note that the details about the world should not change story-to-story. A story in an Albert universe is a static, unchanging thing, making it easier to imerse a listener and have them suspend disbelief. It also makes stories coherant and leaves less work for the storyteller to do in working out exposition for the world.
+
+
+
 ##Albert's Characters
 Albert's characters can be fairly fluid, but constraining the way they are made with a design pattern can make the characters more believable for the listener and better fit into the world Albert's World lays out. 
-1. Albert characters should have a defining characteristic that comes up at the same point in every story 
+1. Albert characters should have a defining characteristic that comes up at the same point in every story. 
+2. Albert characters should have no more than a couple of defining characteristics. 
+The combination of these two factors means that Albert characters are relateable, but not complex. This makes Albert characters easy to follow, but also easy to improvise, which is clearly important to the goals of Project Albert. 
+The set of details that define the character ground the character in the listener's mind. No Albert character needs to be fully fleshed out, because no Albert story should be long enough to require it. Furthermore, few details are needed to make characters engaging for a children's story. 
+To cement the details in the listener's head and remind them of the character they know over time, the same details should be introduced at the beginning and end of the stories every time. For example, Albert himself should always be introduced as a penguin who lives in Surrey at the beginning of a story, and a story should always end with Albert enjoying "a nice, hot, cup of tea". Inflection can also help to make these details about the character relateable. While this might seem like an unnecesary detail, it appears very effective in practice.
+When it comes to incidental details about the main character, there's no limit to how many you should include; whatever is applicable for the story you're spinning is fine. However, details shouldn't change in-story or story-to-story, because of the static world as mentioned in [[Albert's World]].
+
+
+##Albert's plot
+
