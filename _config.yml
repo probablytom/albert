@@ -7,7 +7,9 @@ baseurl: "/albert/" # the subpath of your site, e.g. /blog/
 url: "http://probablytom.github.com/" # the base hostname & protocol for your site
 twitter_username: _wtw_
 github_username:  probablytom
+tagline: "The nice hot cup of tea for storytelling"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
 permalink: pretty
