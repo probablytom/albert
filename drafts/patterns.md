@@ -65,10 +65,8 @@ Limiting plot points to only one keeps the story easy to both improvise and foll
 
 
 ####Content
-(
->Mundane(adj): From classical Latin *mundus*, meaning "universe, world", literally "clean, elegant", a transalation of Ancient Greek *kosmos*, in its Pythagorean sense of "the physical universe"
 
-)[http://etymonline.com/index.php?term=mundane "Etymology of 'Mundane'"]
+>(Mundane(adj): From classical Latin *mundus*, meaning "universe, world", literally "clean, elegant", a transalation of Ancient Greek *kosmos*, in its Pythagorean sense of "the physical universe")[http://etymonline.com/index.php?term=mundane "Etymology of 'Mundane'"]
 
 Albert content should be mundane, in both the etymological and ordinary sense of the word. It should be something relatively boring about the real world, that's also an integral and relateable part of the world. Things like shopping for fruit, a walk through the park, or grabbing a coffee with a friend are simple in nature, but lend themselves to little details like the weather or how nice the leaves on the ground looked that a complex or involved plot would lose. These details of the world are the etymologically mundane parts of an Albert plot. Following a mundane plot in the etymological and modern sense serves a couple of purposes:
 * Stories are ordinary enough to be very easy to improvise, as it essentially becomes a narration of an hour of someone's ordinary day with passing detail thrown in 
