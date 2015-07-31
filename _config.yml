@@ -13,3 +13,9 @@ tagline: "The nice hot cup of tea for storytelling"
 markdown: redcarpet
 highlighter: pygments
 permalink: pretty
+
+github:
+  repo: http://github.com/probablytom/albert/
+  author: Tom Wallis
+
+version: 0.0.1
