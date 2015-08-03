@@ -6,6 +6,7 @@ layout: page
 #Aim
 
 Being able to spin a yarn upon request is a skill we no longer require in a world of colourful children's books. However, it's a useful skill:
+
 * Being able to improvise stories can bring people closer together
 * Improvised stories can be more personal
 * There's no financial cost involved in improvising stories!
@@ -40,6 +41,7 @@ A design pattern usually looks like a series of steps or conditions. In Computer
 
 
 ####The Albert Pattern 
+
 * Albert's identity is consistent through different stories. 
 So, for example, if the first time you tell the Albert story, Albert is a penguin from Sussex, Albert should always be a pengiun from Sussex. 
 * Albert's identity is at least a little silly.
@@ -48,11 +50,9 @@ Albert is the first part of the world a child is going to become familiar with, 
 
 ##An example Uncle Albert story, following the design pattern
 
-
-
-
-
+<!--
 ---TEMPTEMPTEMPTEMPTEMP--- 
 
 
 An example of a design pattern from software design occurs when you give a computer an input, and the programmer doesn't know exactly what they might want to do with it. So, they have the computer construct a virtual pipe that the input travels down, and tell the computer that, at different stages of the pipe, the computer should make changes to the information in different ways. Like a real copper pipe and some apples rolling through it. If you put some water at the beginning of the pipe, and some sugar at the end, the apple would get wet at first and then get sugar stuck to it. The computer design pattern is to create these virtual pipes, and then add different things to do to the appl
+-->

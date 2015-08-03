@@ -8,6 +8,7 @@ This project borrows some terms from Computer Science, and discusses things that
 
 ##Design Pattern
 A [design pattern](https://en.wikipedia.org/wiki/Design_pattern) is a way of managing the solutions to common problems. It's used in architecture and software engineering to discuss a solution to a problem that tends to be:
+
 * Flexible enough to solve lots of problems that match some archetype
 * Robust enough to be changed and still solve a problem 
 

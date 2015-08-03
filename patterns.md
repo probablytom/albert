@@ -11,6 +11,7 @@ Following is a list of the patterns used to construct a Project Albert story. Of
 ---
 ##The pattern itself
 The Albert pattern is the application of the set of constraints below, in a story with the following structure:
+
 * A simple beginning with exposition of a central plot point and a defining characteristic of the main character
 * A progression from this exposition which is as simple as it can be, following any relevant internal monologue of the character the plot concerns
 * A conclusion that rounds off events in a pleasant way, including a second defining characteristic of the main character
@@ -27,13 +28,17 @@ These guidelines should change depending on your needs as a storyteller. Hopeful
 
 ###Albert's World
 Albert's world is a derivation of real life. This holds two purposes. Because we live in the real world, using it is: 
+
 1. Easy to understand 
 2. Very relateable
+
 This doesn't mean it doesn't need work. In fact, Albert's world necessarily also consists of one detail that's amiss, and this is introduced at the beginning of the story. Using this means the world clearly is fictional, so disbelief is suspended from the beginning. This, in turn, serves two purposes: 
+
 1. When the listener suspends disbelief, it feels like they're listening to a piece of fantasy, which can be more engaging than sitting to listen to a lecture about real-life events
 2. When the storyteller spins their yarn, they need to have a little wriggle room to contradict themselves or miss out details. If the listener feels like they're listening to an account of real-life events, it's much more difficult to mention details previously left out. Generally, the extra flexibility from the suspension of disbelief means the storyteller will have more flexibility when coming up with story details on the fly.
 
 So, the pattern creating Albert's world is built from two constraints:
+
 1. It's based on real life
 2. A single details is amiss, creating a fantasy feel
 
@@ -75,6 +80,7 @@ Limiting plot points to only one keeps the story easy to both improvise and foll
 >[Mundane(adj)](http://etymonline.com/index.php?term=mundane "Etymology of 'Mundane'"): From classical Latin *mundus*, meaning "universe, world", literally "clean, elegant", a transalation of Ancient Greek *kosmos*, in its Pythagorean sense of "the physical universe"
 
 Albert content should be mundane, in both the etymological and ordinary sense of the word. It should be something relatively boring about the real world, that's also an integral and relateable part of the world. Things like shopping for fruit, a walk through the park, or grabbing a coffee with a friend are simple in nature, but lend themselves to little details like the weather or how nice the leaves on the ground looked that a complex or involved plot would lose. These details of the world are the etymologically mundane parts of an Albert plot. Following a mundane plot in the etymological and modern sense serves a couple of purposes:
+
 * Stories are ordinary enough to be very easy to improvise, as it essentially becomes a narration of an hour of someone's ordinary day with passing detail thrown in 
   * For example, the character might pass the biscuit aisle and decide that they wouldn't buy biscuits today so they can lose some weight
 * The plot follows a course of actions that the listener is at least partly familiar with, so the details become more interesting and the story is instantly recognisable
