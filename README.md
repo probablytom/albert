@@ -1,118 +1,45 @@
-# Hyde
+# Project Albert
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+In the beginning, a wild, untamed mankind would hunt prey and sit around a fire and tell stories in the warm glow, painting their memories onto the walls of their homes. 
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+In the end, when a tamed mankind breathes its dying breaths, we will huddle around the last vestiges of warmth we can find, and share stories of days past, when men were wild and the ground was alive, and we painted the walls with our fingers. 
 
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+In the meantime, we keep cosy and warm in our beds, and as we tuck the next generation into slumber they ask to be told a story. 
 
 
-## Usage
+Stories were the beginning of us, and they will wave us goodbye. In the meantime, we share tales of the psat and visions of the future and stories of our own inventions. 
+But some of us aren't as good at creating worlds of fiction as others. For the people who have use of tapping into the human response to the story, but aren't a natural-born yarn weaver, let me present Project Albert. 
 
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
-
-
-## Options
-
-Hyde includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Sidebar menu
-
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
-
-```
 ---
-layout: page
-title: About
+## What's Albert?
+Albert is a pattern by which one can improvise children's bedtime stories with reasonable quality. It requires no significant skill on the part of the storyteller, but provides a tale which is enjoyable and meaningful and can create a world where many stories take place, making the moment of telling a bedtime story a little more magical. 
+
+Project Albert isn't intended to replace children's books. Patterns cannot guarentee the craftsmanship a children's book is made with, nor the joy of their illustrations. 
+By using a pattern, however, Project Albert is:
+- Free!
+- Personal
+- A timeless memory to share
+- Adaptable to different scenarios and stories
+- Consistant enough to work every time
+
+Project Albert can be the solution to a son's request for a story about a rabbit, or a calming agent for a frightened daughter. Albert is designed to be a tool that parents can implement, but also riff on: different people have different needs. This repository ([and the free site accompanying it](http://www.projectalbert.net/)) is for people to change and experiement with. Feel free to change things, fork this repository and make a better version, or make your own personal changes for your own personal use-case. Do constribute if you can! 
+It's tried-and-tested, but still under development. Hopefully, the availability of Project Albert will give rise to a wave of patterns and ideas that better empower us to tell stories. 
+
+
+## TODO: 
+- Define all necessary terms, and find a better way of explaining design patterns.
+- Write some example stories.
+- Get some testimonials?
+- Write an initial blog post
+- Maintain said blog
+- Finish this README
+
+
+## Contributors:
+Please add your name if you open a pull request, so you can be credited! 
+
+- [Tom Wallis](http://tomwallis.net/)
+
 ---
-```
+This README is still under construction. Please come back and catch up soon!
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
-
-
-### Sticky sidebar content
-
-By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
-
-```html
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
-
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
-```
-
-
-### Themes
-
-Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
-
-![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
-
-There are eight themes available at this time.
-
-![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
-
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
-
-```html
-<body class="theme-base-08">
-  ...
-</body>
-```
-
-To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
-
-### Reverse layout
-
-![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
-
-Hyde's page orientation can be reversed with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-
-
-## Development
-
-Hyde has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
