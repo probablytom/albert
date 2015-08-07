@@ -18,5 +18,10 @@ title: Home
   </div>
 	{% endfor %}
 	-->
-	<span markdown=1>{% include home.md %}</span>
+	<span markdown=1>
+		{% capture home %}
+		  {% include home.md %}
+		{% end_capture %}
+		{{ home | markdownify }}
+	</span>
 </div>
