@@ -1,5 +1,5 @@
 ---
-title: Albert Patterns
+title: The Albert Framework
 layout: page
 ---
 
@@ -88,3 +88,30 @@ Albert content should be mundane, in both the etymological and ordinary sense of
   * This is perfect for a children's bedtime story, which is the primary design of Project Albert.
 
 While mundane content might sound like a strange constraint, it makes for a pleasantly ordinary and recognisable plot. This has worked brilliantly well in practice, and is really a core concept of an Albert story; without it, the stories can quickly become too complicated to effectively improvise. This isn't a constraint that's worth skipping!
+
+---
+<br/>
+---
+
+#Defaults for the framework
+
+Following the above patterns will make certain that your story falls under the safety the Albert Framework supports. However, they still leave a lot of work for the storyteller to put in; making the world well-defined and characterful and making the characters in the story interesting and relateable is a difficult thing to do!
+
+By following the defaults laid out here, one can reduce the amount of work required by borrowing from tried-and-tested stories. This is the world I was told stories from as a child. 
+
+I've done my best to recreate it, but of course, some of the magic of the stories was inserted by the way the story was told, with voices and waggling eyebrows. With a little luck, your audience can love Uncle Albert's world just like I did a decade or two ago. 
+
+---
+##World
+
+
+---
+##Characters
+
+
+---
+##Plot
+
+###Struture
+
+###Content
