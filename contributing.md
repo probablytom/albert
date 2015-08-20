@@ -3,7 +3,6 @@ title: Contributing
 layout: page
 ---
 
-#Contributing
 Contributing to Project Albert is pretty easy! You don't need technical expertise or anything fancy, because Project Albert is entirely a writing exercise. 
 
 ---
