@@ -40,7 +40,7 @@ This doesn't mean it doesn't need work. In fact, Albert's world necessarily also
 So, the pattern creating Albert's world is built from two constraints:
 
 1. It's based on real life
-2. A single details is amiss, creating a fantasy feel
+2. A single detail is amiss, creating a fantasy feel
 
 Also, note that the details about the world should not change story-to-story. A story in an Albert universe is a static, unchanging thing, making it easier to imerse a listener and have them suspend disbelief. It also makes stories coherant and leaves less work for the storyteller to do in working out exposition for the world.
 
@@ -55,9 +55,9 @@ Albert's characters can be fairly fluid, but constraining the way they are made 
 The combination of these two factors means that Albert characters are relateable, but not complex. This makes Albert characters easy to follow, but also easy to improvise, which is clearly important to the goals of Project Albert. 
 
 The set of details that define the character ground the character in the listener's mind. No Albert character needs to be fully fleshed out, because no Albert story should be long enough to require it. Furthermore, few details are needed to make characters engaging for a children's story. 
-To cement the details in the listener's head and remind them of the character they know over time, the same details should be introduced at the beginning and end of the stories every time. For example, Albert himself should always be introduced as a penguin who lives in Surrey at the beginning of a story, and a story should always end with Albert enjoying "a nice, hot, cup of tea". Inflection can also help to make these details about the character relateable. While this might seem like an unnecesary detail, it appears very effective in practice.
+To cement the details in the listener's head and remind them of the character they know over time, the same details should be introduced at the beginning and end of the stories every time. Details of default details for the Albert framework are given below, in the defaults section.
 
-When it comes to incidental details about the main character, there's no limit to how many you should include; whatever is applicable for the story you're spinning is fine. However, details shouldn't change in-story or story-to-story, because of the static world as mentioned in [[Albert's World]].
+When it comes to incidental details about the main character, there's no limit to how many you should include; whatever is applicable for the story you're spinning is fine. However, details shouldn't change in-story or story-to-story, because of the static world as mentioned in the `Albert's World` section.
 
 
 
@@ -103,11 +103,25 @@ I've done my best to recreate it, but of course, some of the magic of the storie
 
 ---
 ##World
+The Albert world is composed of a couple of rules:
+1. It's set somewhere in the vicinity of home, but not the same city/town
+  When the stories were originally told to me, for example, an English town would be chosen even though we lived in Scotland. Same country (Britain), but not actually our home town. 
+  The reason for this is that, when improvising a story, if the setting is known by the audience then missing or incorrect details will stand out. Improvising is hard enough without checking facts for yourself, so the Albert default is not to use the hometown. 
+  However, if one were to use a place far away, a sense of familiarity might be lost. Therefore, use somewhere closeby enough that you could conceivably visit without difficulty; that's a good rule of thumb, particularly if the audience has heard of/passed through it but never visited the place.
+2. The main character is a penguin, but all other characters are real. 
+  This is purely because it was the way it was from the beginning. However, it supports all of the constraints laid out in the framework described above. 
+  Albert being a penguin is a good way to introduce quirkiness into the story, and that levity right from the off is a great way to introduce the Albert character, and makes him memorable the next time the story is told. 
 
+	
+I've told Albert stories to friends when describing this project, and whenever it's brought up again, they always seem to comment on Albert stories being "the ones about the penguin from Surrey". This default seems to work well. 
 
 ---
 ##Characters
+Albert's character is a penguin, but this isn't his defining characteristic; that belongs more in the construction of the Albert world. The defining characteristic of the Albert character is more of a personality trait. 
 
+With the Albert character, the default defining characteristic was that he would end the story by sitting in his favourite armchair and drink a nice, hot, cup of tea. (Commas included are to show recommended cadence when telling this characteristic; cadence doesn't necessarily make a big difference, but the little details can matter!)
+
+This is the only real defining characteristic for the Albert character by default. Of course, you can embellish and add a couple more, but don't add too much! You'll find it easy to got lost in the detail insdtead of focusing on the actual story. In my experience, this is enough detail.  
 
 ---
 ##Plot
