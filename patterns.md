@@ -69,7 +69,7 @@ Albert's plot structure revolves around two core ideas:
 1. There should only be one plot point to develop
 2. This single plot point should revolve around a single thing, whether that be an object or a feeling. 
 
-So, for example, you could have a story about an umbrella seen in the window of a shop, or a stranger, but nothing else. 
+So, for example, you could have a story about an umbrella seen in the window of a shop, or a stranger, but it should be limited to this single item.
 
 A corollary of #1 is that the plot point should be developed by a (possibly potential) action of the main chracter's. So, Albert might want to buy the umbrella, or befriend the stranger, and this action or prospective action is what drives the story. 
 Limiting plot points to only one keeps the story easy to both improvise and follow. If there's enough plot that various strands can coalesce together, there's too much plot to reasonably improvise. On a similar note, if there's enough plot for any meaningful theme to emerge, your plot may also be too complex. 
@@ -113,7 +113,7 @@ The Albert world is composed of a couple of rules:
   Albert being a penguin is a good way to introduce quirkiness into the story, and that levity right from the off is a great way to introduce the Albert character, and makes him memorable the next time the story is told. 
 
 	
-I've told Albert stories to friends when describing this project, and whenever it's brought up again, they always seem to comment on Albert stories being "the ones about the penguin from Surrey". This default seems to work well. 
+I've told Albert stories to friends when describing this project, and whenever it's brought up again, they always seem to comment on Albert stories being "the ones about the penguin from Surrey". This default seems to work well. It also keeps consistency, at least a little!
 
 ---
 ##Characters
@@ -125,7 +125,8 @@ This is the only real defining characteristic for the Albert character by defaul
 
 ---
 ##Plot
+Because plot is best chosen depending on what the narrator's most familiar and comfortable with, and because plot will change significantly over time, there aren't defaults for the plot's structure or content. 
 
-###Struture
+However, in an Albert story, the default development of the plot should cover a simple exposition, mundane development (of the type described above) and end with a comfortable resolution. Generally, Albert plots are centered around some goal of Albert's; examples would be buying food for dinner, or making a friend, or finding a delicious coffee. 
 
-###Content
+Albert stories, by default, have very small plots so that they're both easy to develop and easy to improvise. The mundane goal is intended to assist this, so by sticking to that part of the plot pattern, the defaults for plot are already met. 
