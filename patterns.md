@@ -104,6 +104,7 @@ I've done my best to recreate it, but of course, some of the magic of the storie
 ---
 ##World
 The Albert world is composed of a couple of rules:
+
 1. It's set somewhere in the vicinity of home, but not the same city/town
   When the stories were originally told to me, for example, an English town would be chosen even though we lived in Scotland. Same country (Britain), but not actually our home town. 
   The reason for this is that, when improvising a story, if the setting is known by the audience then missing or incorrect details will stand out. Improvising is hard enough without checking facts for yourself, so the Albert default is not to use the hometown. 
