@@ -3,13 +3,13 @@
 
 ---
 
-In the beginning, a wild, untamed mankind would hunt prey and sit around a fire and tell stories in the warm glow, painting their memories onto the walls of their homes. 
+Stories are a foundational aspect of the human experience. They're the things we hear when we're young, tell when we're old, and make in between. 
 
-In the end, when a tamed mankind breathes its dying breaths, we will huddle around the last vestiges of warmth we can find, and share stories of days past, when men were wild and the ground was alive, and we painted the walls with our fingers. 
+Stories are *important*. But it can be hard, sometimes, to tell a fresh story: books are expensive, and you can't always pull something new from the back of your head. 
 
-In the meantime, we keep cosy and warm in our beds, and as we tuck the next generation into slumber they ask to be told a story. 
+Project Albert tries to make this easier, by creating patterns we can follow so we can get the semantics and structure out of the way and get on to actually creating our stories. 
 
-Stories were the beginning of us, and they will wave us goodbye. In the meantime, we share tales of the psat and visions of the future and stories of our own inventions. But some of us aren't as good at creating worlds of fiction as others. For the people who have use of tapping into the human response to the story, but aren't a natural-born yarn weaver, let me present Project Albert. 
+The Albert patterns focus on children's bedtime stories, and attempt to make storytelling easy enough to improvise, whenever they're needed.
 
 ---
 
