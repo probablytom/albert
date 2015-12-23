@@ -23,7 +23,6 @@ There's a list of things I need to fix or changed over at the [issues page on Gi
 * Some example Albert stories in the setting of the default Albert world
 * Some example stories that don't exist in the default world
 * Defaults for the Albert world 
-* Analytics?
 * Comments via disqus
 * Copy-editing and grammar checking
 * Testimonials and comments from people who have tried it or are interested in the project. 
@@ -37,6 +36,6 @@ I'm a student and I try to maintain this in my spare time.
 
 Unfortunately, spare time can be hard to come by as a student -- but I really want to work on this as much as I can, and I think it could be genuinely useful to people (as well as it being an interesting example of how to use patterns!) 
 
-If you ifnd Albert interesting or useful, and you want to see more things like it, please donate. Every little helps. *Thanks*.
+If you find Albert interesting or useful, and you want to see more things like it, please donate. Every little helps. *Thanks*.
 
 Bitcoin address: [3Pkot3dVh92pdyqXWaRFszURoJCLUmZEgQ](bitcoin:3Pkot3dVh92pdyqXWaRFszURoJCLUmZEgQ)
