@@ -1,3 +1,8 @@
+---
+title: FAQs
+layout: page
+---
+
 ####FAQs
 
 * Project Albert is named after the main character: `Albert`. Albert is, by default for the pattern, a mild mannered friend of the storyteller from long ago. He is traditionally a penguin who lives in Surrey, for reasons that will be explained in the pattern later. 
