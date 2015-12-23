@@ -22,7 +22,6 @@ There's a list of things I need to fix or changed over at the [issues page on Gi
 
 * Some example Albert stories in the setting of the default Albert world
 * Some example stories that don't exist in the default world
-* Defaults for the Albert world 
 * Comments via disqus
 * Copy-editing and grammar checking
 * Testimonials and comments from people who have tried it or are interested in the project. 
