@@ -19,4 +19,4 @@ Let's not reinvent the wheel. If we've figured something out in one area, let's 
 
 Project Albert is to show one way in which this can happen. It's not supposed to be perfect, and it might never be used, but with some support and input, it could be great. Anyone can contribute! In the meantime, let's explore the ways sciences and humanities can help each other in other ways, too. 
 
-<br/>Project Albert is only the beginning.
+<br/>This is only the beginning.
