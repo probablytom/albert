@@ -28,8 +28,6 @@ It's tried-and-tested, but still under development. Hopefully, the availability 
 
 ## TODO: 
 - Define all necessary terms, and find a better way of explaining design patterns.
-- Write some example stories.
-- Get some testimonials?
 - Write an initial blog post
 - Maintain said blog
 - Finish this README
@@ -39,7 +37,6 @@ It's tried-and-tested, but still under development. Hopefully, the availability 
 Please add your name if you open a pull request, so you can be credited! 
 
 - [Tom Wallis](http://tomwallis.net/)
+- Rebecca Baird
 
----
-This README is still under construction. Please come back and catch up soon!
 

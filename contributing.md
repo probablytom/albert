@@ -21,12 +21,19 @@ If you don't like to (or want to) use Github, you can email me at PROJECTALBERT-
 There's a list of things I need to fix or changed over at the [issues page on Github](https://github.com/probablytom/albert/issues). however, here's a little run-down of some things you might be able to help with that I should really add: 
 
 * Some example Albert stories in the setting of the default Albert world
-* Some example stories that don't exist in the default world
 * Comments via disqus
 * Copy-editing and grammar checking
 * Testimonials and comments from people who have tried it or are interested in the project. 
 
 Really, the best way to contribute is via Github, but any suggestions can be emailled at the address above. 
+
+---
+
+##Contributors
+
+People who have added to the site already:
+- [Tom Wallis](http://tomwallis.net)
+- Rebecca Baird
 
 ---
 
