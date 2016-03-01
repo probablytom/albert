@@ -9,10 +9,10 @@ As always, anybody else is welcome to contribute stories of their own.
 
 These were made by Rebecca having just read the patterns through. Lady Petunia is her character that follows the Albert pattern. These match the pattern fairly closely, so they're a pretty good representation of what a story should look like. 
 
-* [Lady Petunia and the Apple](#lp-and-apple)
-* [Lady Petunia and the Coffee Shop](#lp-and-coffee-shop)
+1. [Lady Petunia and the Apple](#lp-and-apple)
+2. [Lady Petunia and the Coffee Shop](#lp-and-coffee-shop)
 
-
+---
 
 <a name="lp-and-apple">
 ##Lady Petunia and the Apple
