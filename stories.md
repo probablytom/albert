@@ -14,7 +14,9 @@ These were made by Rebecca having just read the patterns through. Lady Petunia i
 
 
 
-<a href="#lp-and-apple">##Lady Petunia and the Apple</a>
+<a href="#lp-and-apple">
+##Lady Petunia and the Apple
+</a>
 Lady Petunia is a very wealthy donkey who lives just outside of London. She likes to wear her favourite pink hat when she goes apple picking in the orchard, and that is what she was doing today.
 Lady Petunia had a very long journey to the orchard. It was on the other side of a huge, towering hill in a quiet valley, and the only way to get there was to walk, so she shined up her favourite shoes and put them on her little hooves, and began to walk.
 First, she walked down her street, which was filled with identical little white houses. She waved to her neighbour Florence who was tending her garden, but Florence didn’t see – her head was in a rose bush. Next, she walked through the village market. She stopped to look at some pretty pink scarves which would match her hat, but she didn’t want to fill her basket before getting to the orchard, so she decided to pick them up on the way home.
@@ -28,7 +30,9 @@ She walked down her street again, very tired but satisfied, and returned to her 
 
 
 
-<a href="#lp-and-coffee-shop">##Lady Petunia and the Coffee Shop</a>
+<a href="#lp-and-coffee-shop">
+##Lady Petunia and the Coffee Shop
+</a>
 Lady Petunia is a very wealthy donkey who lives just outside of London. She likes to wear her favourite pink hat when she goes into the city to meet her friends, and that is what she was doing today. 
 Lady Petunia had a long journey into town. First, she had to walk to the train station to catch the morning train. She left five minutes early to make sure she didn’t miss it, and lucky too, because the queue for tickets was very long, and she had to run to make it!
 After her train ride, which she spent looking outside at the pretty trees and houses turning into big city buildings, she had to get on the tube to Piccadilly Circus.
