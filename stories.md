@@ -14,7 +14,7 @@ These were made by Rebecca having just read the patterns through. Lady Petunia i
 
 ---
 
-<a name="lp-and-apple">
+<a name="lp-and-apple" style="text-decoration:none">
 ##Lady Petunia and the Apple
 </a>
 Lady Petunia is a very wealthy donkey who lives just outside of London. She likes to wear her favourite pink hat when she goes apple picking in the orchard, and that is what she was doing today.
@@ -39,7 +39,7 @@ She walked down her street again, very tired but satisfied, and returned to her 
 
 
 
-<a name="lp-and-coffee-shop">
+<a name="lp-and-coffee-shop" style="text-decoration:none">
 ##Lady Petunia and the Coffee Shop
 </a>
 Lady Petunia is a very wealthy donkey who lives just outside of London. She likes to wear her favourite pink hat when she goes into the city to meet her friends, and that is what she was doing today. 
