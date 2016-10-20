@@ -32,6 +32,7 @@ Really, the best way to contribute is via Github, but any suggestions can be ema
 ##Contributors
 
 People who have added to the site already:
+
 - [Tom Wallis](http://tomwallis.net)
 - Rebecca Baird
 
